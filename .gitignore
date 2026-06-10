@@ -1,0 +1,8 @@
+# משתני סביבה וסודות — לעולם לא לעלות ל-git
+.env
+.env.local
+.env.*.local
+
+# קבצי מערכת
+.DS_Store
+Thumbs.db
